@@ -1,0 +1,9 @@
+name: PuerkasColor
+version: '${project.version}'
+main: es.capitanpuerka.pcolors.Main
+authors: [CapitanPuerka]
+depend:
+  - PlaceholderAPI
+commands:
+  color:
+    description: add color to name
